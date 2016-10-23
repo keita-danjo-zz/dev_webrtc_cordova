@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A08E4405786CA306A6743875E14CDC09A8DA1838",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8849AB7B778EB43742632B05616C499AF65E9ACA" : 9223372036854775807,
+    "C4C41991C56734835BB6DDABD8D195665810B0F1" : 9223372036854775807,
+    "A08E4405786CA306A6743875E14CDC09A8DA1838" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "31B509E3-4FB7-4264-9D22-794F0F2187F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8849AB7B778EB43742632B05616C499AF65E9ACA" : "..\/test",
+    "C4C41991C56734835BB6DDABD8D195665810B0F1" : "..\/test\/cordova\/ApiRTC-mobile",
+    "A08E4405786CA306A6743875E14CDC09A8DA1838" : "dev_webrtc_cordova\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Webrtc_cordova",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Webrtc_cordova.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keita-danjo\/test",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8849AB7B778EB43742632B05616C499AF65E9ACA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keita-danjo\/dev_webrtc_cordova",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A08E4405786CA306A6743875E14CDC09A8DA1838"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apizee\/ApiRTC-mobile.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4C41991C56734835BB6DDABD8D195665810B0F1"
+    }
+  ]
+}
